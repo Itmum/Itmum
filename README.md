@@ -20,8 +20,7 @@
   <img src="https://img.shields.io/badge/💼_LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
 </a>
 
-<br><br>
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=ItmumSadiq&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views">
 
 </div>

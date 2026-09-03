@@ -1,4 +1,71 @@
-# Hi, I'm Itmum Sadiq 👋
+<div align="center">
+
+# 👋 Hi, I'm **Itmum Sadiq**
+
+### `CSE Student` · `Full-Stack Developer` · `ML & IoT Enthusiast`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+things+that+solve+real+problems;Learning+Full-Stack+Development;Exploring+Machine+Learning;Building+with+ESP32+%26+IoT;Turning+ideas+into+working+systems" alt="Typing SVG" />
+
+<br>
+
+<a href="#-featured-projects">
+  <img src="https://img.shields.io/badge/🚀_Explore_My_Projects-21262d?style=for-the-badge&logoColor=white" alt="Projects">
+</a>
+&nbsp;
+<a href="https://github.com/ItmumSadiq">
+  <img src="https://img.shields.io/badge/💻_GitHub-21262d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ItmumSadiq&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views">
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧑‍💻 `~/itmum`
+
+</div>
+
+```text
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│   itmum@github:~$ whoami                                            │
+│                                                                      │
+│   ┌──────────────────────────────────────────────────────────────┐   │
+│   │                                                              │   │
+│   │   Itmum Sadiq                                                │   │
+│   │   Computer Science & Engineering Student                     │   │
+│   │                                                              │   │
+│   │   Building → Learning → Breaking → Debugging → Building     │   │
+│   │                                                              │   │
+│   └──────────────────────────────────────────────────────────────┘   │
+│                                                                      │
+│   itmum@github:~$ cat current_focus.txt                             │
+│                                                                      │
+│   > Full-Stack Web Development                                      │
+│   > Machine Learning                                                │
+│   > IoT & Embedded Systems                                          │
+│   > Software Engineering                                            │
+│                                                                      │
+│   itmum@github:~$ status                                            │
+│                                                                      │
+│   [██████████████████░░]  Building & Learning                       │
+│                                                                      │
+│   itmum@github:~$ _                                                 │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
+
+
+#####################################################################################
+# Hi, I'm Itmum Sadiq Rahman 👋
 
 ### CSE Student • Aspiring Full-Stack Developer • ML & IoT Enthusiast
 
@@ -65,9 +132,5 @@ Experience with:
 ---
 
 ## 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itmum&show_icons=true&theme=dracula&locale=en&layout=compact" alt="itmum" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itmum&show_icons=true&theme=dracula&locale=en" alt="itmum" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itmum&" alt="itmum" /></p>
 ⭐ If you find one of my projects useful or interesting, consider giving it a star!

@@ -57,84 +57,20 @@ Experience with:
 
 ---
 
-## 🔭 Featured Project
+## 🌐 Connect With Me  
 
-### 💧 Smart Water Quality Monitoring System
-
-A low-cost IoT system designed to monitor water quality using an **ESP32**.
-
-**Measures:**
-- 🧪 pH
-- 🌫️ Turbidity
-- 🌡️ Temperature
-
-The system includes sensor calibration, measurement recording, editable locations, data management, CSV export, and a software interface for viewing measurements.
-
-> Built as an academic IoT / Microprocessor & Microcontroller project.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/itmum-sadiq-rahman-6061a03a0/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](itmamsadiq22@gmail.com)
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Stats  
 
-```text
-Full-Stack Web Development
-        ↓
-React → Backend → Database → APIs
-        ↓
-Software Engineering
-        ↓
-Machine Learning
-        ↓
-Deployment & Real-World Projects
-```
-
-My goal isn't simply to collect technologies.  
-I want to understand **how things work and build useful systems with them.**
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
 
 ---
 
-## 🎯 2026–2027 Goals
-
-- [ ] Become job-ready as a Full-Stack Developer
-- [ ] Build several original, production-style web applications
-- [ ] Build and deploy practical ML projects
-- [ ] Strengthen Git & GitHub workflow
-- [ ] Contribute to open-source projects
-- [ ] Develop stronger DSA & problem-solving skills
-- [ ] Learn backend development and databases deeply
-- [ ] Explore cloud deployment and DevOps fundamentals
-- [ ] Build a strong software engineering portfolio
-
----
-
-## 📈 My GitHub Journey
-
-I'm gradually transforming this profile from a collection of experiments into a portfolio that reflects my actual growth as a developer.
-
-I value:
-
-**Consistency → Understanding → Building → Improving**
-
-rather than simply chasing contribution counts.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with other students, developers, builders, and people working on interesting technology projects.
-
-If you're interested in **Web Development, Machine Learning, IoT, or Software Engineering**, feel free to reach out.
-
----
-
-### 💡 A little about me
-
-> *Still learning. Still building. Still figuring things out.*
-
-I believe a good developer isn't someone who knows everything.
-
-It's someone who is willing to **keep learning, keep building, and keep improving.**
-
----
-
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 ⭐ If you find one of my projects useful or interesting, consider giving it a star!

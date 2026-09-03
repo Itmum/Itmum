@@ -28,19 +28,6 @@
 
 ---
 
-<div align="center">
-
-### 🧑‍💻 `~/itmum`
-
-# Hi, I'm Itmum Sadiq Rahman 👋
-
-### CSE Student • Aspiring Full-Stack Developer • ML & IoT Enthusiast
-
-I'm a Computer Science & Engineering student at **University of Liberal Arts Bangladesh (ULAB)**, currently focused on building strong foundations in **software development, machine learning, and IoT**.
-
-I enjoy turning ideas into working projects — from web applications and software systems to ESP32-based hardware projects and ML prototypes.
-
----
 
 ## 🚀 What I'm Working On
 

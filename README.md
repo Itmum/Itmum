@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Itmum Sadiq**
+# 👋 Hi, I'm **Itmum Sadiq Rahman**
 
 ### `CSE Student` · `Full-Stack Developer` · `ML & IoT Enthusiast`
 
@@ -32,39 +32,6 @@
 
 ### 🧑‍💻 `~/itmum`
 
-</div>
-
-```text
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│   itmum@github:~$ whoami                                            │
-│                                                                      │
-│   ┌──────────────────────────────────────────────────────────────┐   │
-│   │                                                              │   │
-│   │   Itmum Sadiq                                                │   │
-│   │   Computer Science & Engineering Student                     │   │
-│   │                                                              │   │
-│   │   Building → Learning → Breaking → Debugging → Building     │   │
-│   │                                                              │   │
-│   └──────────────────────────────────────────────────────────────┘   │
-│                                                                      │
-│   itmum@github:~$ cat current_focus.txt                             │
-│                                                                      │
-│   > Full-Stack Web Development                                      │
-│   > Machine Learning                                                │
-│   > IoT & Embedded Systems                                          │
-│   > Software Engineering                                            │
-│                                                                      │
-│   itmum@github:~$ status                                            │
-│                                                                      │
-│   [██████████████████░░]  Building & Learning                       │
-│                                                                      │
-│   itmum@github:~$ _                                                 │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
-
-
-#####################################################################################
 # Hi, I'm Itmum Sadiq Rahman 👋
 
 ### CSE Student • Aspiring Full-Stack Developer • ML & IoT Enthusiast

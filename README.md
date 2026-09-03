@@ -1,20 +1,140 @@
-<h1 align="center">Hi 👋, I'm Itmum Sadiq Rahman</h1>
-<h3 align="center">An aspiring frontend developer from Bangladesh</h3>
+# Hi, I'm Itmum Sadiq 👋
 
-- 🌱 I’m currently learning **React js**
+### CSE Student • Aspiring Full-Stack Developer • ML & IoT Enthusiast
 
-- 📫 How to reach me **itmamsadiq22@gmail.com**
+I'm a Computer Science & Engineering student at **University of Liberal Arts Bangladesh (ULAB)**, currently focused on building strong foundations in **software development, machine learning, and IoT**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/itmum-sadiq-rahman-6061a03a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itmum sadiq rahman" height="30" width="40" /></a>
-</p>
+I enjoy turning ideas into working projects — from web applications and software systems to ESP32-based hardware projects and ML prototypes.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itmum&show_icons=true&theme=dracula&locale=en&layout=compact" alt="itmum" /></p>
+## 🚀 What I'm Working On
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itmum&show_icons=true&theme=dracula&locale=en" alt="itmum" /></p>
+- 🌐 Becoming a **job-ready Full-Stack Web Developer**
+- 🤖 Building practical **Machine Learning** projects
+- 🔌 Exploring **IoT & embedded systems** with ESP32
+- 🧠 Strengthening my programming, algorithms, software engineering, and system-design skills
+- 📂 Building a GitHub portfolio with projects that demonstrate **real problem-solving**, not just tutorials
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itmum&" alt="itmum" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-ML-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+Currently learning:
+- Data preprocessing & exploratory data analysis
+- Supervised machine learning
+- Model evaluation & comparison
+- Practical ML deployment
+
+### IoT & Embedded Systems
+![ESP32](https://img.shields.io/badge/ESP32-IoT-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+Experience with:
+- ESP32 development
+- Sensors & ADC
+- I2C LCD
+- Temperature, pH & turbidity sensing
+- Embedded data collection
+- Hardware/software integration
+
+---
+
+## 🔭 Featured Project
+
+### 💧 Smart Water Quality Monitoring System
+
+A low-cost IoT system designed to monitor water quality using an **ESP32**.
+
+**Measures:**
+- 🧪 pH
+- 🌫️ Turbidity
+- 🌡️ Temperature
+
+The system includes sensor calibration, measurement recording, editable locations, data management, CSV export, and a software interface for viewing measurements.
+
+> Built as an academic IoT / Microprocessor & Microcontroller project.
+
+---
+
+## 📚 Currently Learning
+
+```text
+Full-Stack Web Development
+        ↓
+React → Backend → Database → APIs
+        ↓
+Software Engineering
+        ↓
+Machine Learning
+        ↓
+Deployment & Real-World Projects
+```
+
+My goal isn't simply to collect technologies.  
+I want to understand **how things work and build useful systems with them.**
+
+---
+
+## 🎯 2026–2027 Goals
+
+- [ ] Become job-ready as a Full-Stack Developer
+- [ ] Build several original, production-style web applications
+- [ ] Build and deploy practical ML projects
+- [ ] Strengthen Git & GitHub workflow
+- [ ] Contribute to open-source projects
+- [ ] Develop stronger DSA & problem-solving skills
+- [ ] Learn backend development and databases deeply
+- [ ] Explore cloud deployment and DevOps fundamentals
+- [ ] Build a strong software engineering portfolio
+
+---
+
+## 📈 My GitHub Journey
+
+I'm gradually transforming this profile from a collection of experiments into a portfolio that reflects my actual growth as a developer.
+
+I value:
+
+**Consistency → Understanding → Building → Improving**
+
+rather than simply chasing contribution counts.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with other students, developers, builders, and people working on interesting technology projects.
+
+If you're interested in **Web Development, Machine Learning, IoT, or Software Engineering**, feel free to reach out.
+
+---
+
+### 💡 A little about me
+
+> *Still learning. Still building. Still figuring things out.*
+
+I believe a good developer isn't someone who knows everything.
+
+It's someone who is willing to **keep learning, keep building, and keep improving.**
+
+---
+
+⭐ If you find one of my projects useful or interesting, consider giving it a star!

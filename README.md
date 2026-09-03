@@ -65,12 +65,9 @@ Experience with:
 ---
 
 ## 📊 GitHub Stats  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itmum&show_icons=true&theme=dracula&locale=en&layout=compact" alt="itmum" /></p>
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itmum&show_icons=true&theme=dracula&locale=en" alt="itmum" /></p>
 
----
-
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itmum&" alt="itmum" /></p>
 ⭐ If you find one of my projects useful or interesting, consider giving it a star!

@@ -8,15 +8,15 @@
 
 <br>
 
-<a href="[#-featured-projects](https://water-quality-dss-hjnxyaf4eycdz8ktev7l3y.streamlit.app/)">
+<a href="https://water-quality-dss-hjnxyaf4eycdz8ktev7l3y.streamlit.app/">
   <img src="https://img.shields.io/badge/🚀_Explore_My_Projects-21262d?style=for-the-badge&logoColor=white" alt="Projects">
 </a>
 &nbsp;
-<a href="[https://github.com/ItmumSadiq](https://github.com/Itmum)">
+<a href="https://github.com/Itmum">
   <img src="https://img.shields.io/badge/💻_GitHub-21262d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/itmum-sadiq-rahman-6061a03a0/)">
+<a href="https://www.linkedin.com/in/itmum-sadiq-rahman-6061a03a0/">
   <img src="https://img.shields.io/badge/💼_LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
 </a>
 
